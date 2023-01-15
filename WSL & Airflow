@@ -20,7 +20,7 @@ airflow standalone
 #http://localhost:8080
 
 
-#Copy the relevant for python files into the directories 
+#Copy the relevant for python files into the right directories 
 cd /mnt/c/Users/Dániel/airflow/dags
 ls /mnt/c/Users/Dániel/airflow/dags
 cp dag_update_table.py /home/daniel/airflow/airflowenv/lib/python3.10/site-packages/airflow/example_dags/
